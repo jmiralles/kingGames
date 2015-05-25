@@ -1,0 +1,7 @@
+{
+    "name" : "king - my games",
+    "dependencies": {
+         "angular": "1.2.0-rc.1",
+         "bootstrap": "~3.0.0"
+  }
+}
