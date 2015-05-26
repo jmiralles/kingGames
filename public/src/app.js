@@ -1,4 +1,4 @@
-angular.module('GamesApp', ['ngRoute'])
+angular.module('GamesApp', ['ngRoute', 'ngResource'])
     .config(function($routeProvider, $locationProvider) {
         $routeProvider
             .when('/contacts', {
